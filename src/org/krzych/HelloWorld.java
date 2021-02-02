@@ -7,6 +7,7 @@ public class HelloWorld {
 		System.out.println("Hello"+hp.printHello());
 		System.out.println("No zaczynamy przygotowania i nauke:)");
 		System.out.println("KOlejny test");
+		System.out.println("No to jazda");
 	}
 
 }
